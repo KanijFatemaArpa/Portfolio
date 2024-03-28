@@ -54,7 +54,7 @@ const about = () => {
                             <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
 
                             <p className='font-medium'>
-                            Hi, I'm Kanij Fatema Arpa, a computer science engineer. Highly passionate about creating problem-solving,
+                            Hi, I am Kanij Fatema Arpa, a computer science engineer. Highly passionate about creating problem-solving,
                              functional, and user-centered digital artificial intelligent applications. As I believe there is no such 
                              thing as the best solution,  I am always looking for new and better ways to bring visions to life.
                             </p>
